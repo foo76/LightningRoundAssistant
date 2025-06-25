@@ -1,0 +1,6 @@
+{
+  "name": "Lightning Round Assistant",
+  "description": "A sleek and efficient timer application designed for managing lightning round meetings or stand-ups. It helps allocate equal speaking time to each participant, ensuring meetings stay on track and everyone gets a chance to speak.",
+  "requestFramePermissions": [],
+  "prompt": ""
+}
